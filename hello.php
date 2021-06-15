@@ -1,6 +1,10 @@
 <?php
 
-hello();
+$logged = true;
+
+if ($logged) {
+    hello();
+}
 
 function hello()
 {
