@@ -1,4 +1,9 @@
 <?php
 
-echo "Hello, World!!!";
+hello();
+
+function hello()
+{
+    echo "Hello, World!!!";
+}
 
