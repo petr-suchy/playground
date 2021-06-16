@@ -11,7 +11,7 @@ function hello()
     echo "Hello, World!!!";
 }
 
-function test()
+function xyz()
 {
-    return 123;
+    return "xyz";
 }
