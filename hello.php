@@ -11,3 +11,7 @@ function hello()
     echo "Hello, World!!!";
 }
 
+function test()
+{
+    return 123;
+}
