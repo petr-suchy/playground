@@ -5,6 +5,7 @@ $value = 123;
 echo "test({$value}):" . test($value) . "\n";
 echo "test100({$value}):" . test100($value) . "\n";
 echo "test200({$value}):" . test200($value) . "\n";
+echo "test400({$value}):" . test400($value) . "\n";
 
 function test($value)
 {
@@ -20,3 +21,9 @@ function test200($value)
 {
     return 200 + $value;
 }
+
+function test400($value)
+{
+    return 400 + $value;
+}
+
