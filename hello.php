@@ -10,8 +10,3 @@ function hello()
 {
     echo "Hello, World!!!";
 }
-
-function xyz()
-{
-    return "xyz";
-}
