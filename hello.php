@@ -5,5 +5,5 @@ hello();
 
 function hello()
 {
-    echo "xxx!\n";
+    echo "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!\n";
 }
