@@ -1,4 +1,8 @@
 <?php
 
-echo "Hello, World!\n";
+hello();
 
+function hello()
+{
+    echo "Hello, World!\n";
+}
