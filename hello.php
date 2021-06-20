@@ -1,4 +1,4 @@
-// this is hello.php file
+// this is hello.php file xxx
 <?php
 
 hello();
